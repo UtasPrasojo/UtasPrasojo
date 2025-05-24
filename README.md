@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/UNjmW](https://shorturl.at/UNjmW)
 
-- ⚡ Fun fact **Tukang kayu ngebanting batu.I just cant stop thinking about u**
+- ⚡ Fun fact **Tukang kayu ngebanting batu. I just cant stop thinking about u**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
