@@ -1,5 +1,4 @@
-<h1 align="left">Hello World 👋</h1>
-<h2 align="left">I'm Utas Prasojo</h2>
+<h1 align="left">Hello World, I'm Utas Prasojo 👋</h1>
 <h3 align="left">I am a Junior Frontend Developer with a strong passion for building responsive and user-friendly web applications. I have experience using Vue.js, TypeScript, Tailwind CSS, and Figma for UI/UX design. I’m continuously learning new technologies and improving my skills to become a better developer.</h3>
 
 - 🌱 I’m currently learning **vue,next.js,nest.js,laravel**
