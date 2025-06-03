@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **utasprasojo229@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/UNjmW](https://shorturl.at/UNjmW)
+- 📄 Know about my experiences [click here](https://utasprasojo.vercel.app/)
 
 - ⚡ Fun fact **Tukang kayu ngebanting batu. I just cant stop thinking about u**
 
